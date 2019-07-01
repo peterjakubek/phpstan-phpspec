@@ -1,5 +1,5 @@
 {
-    "name": "proget-hq/phpstan-phpspec",
+    "name": "peterjakubek/phpstan-phpspec",
     "description": "PhpSpec extension for PHPStan",
     "type": "library",
     "require": {
